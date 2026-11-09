@@ -1,0 +1,4 @@
+Contact: mailto:amirfahid@gmail.com
+Expires: 2027-11-09T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://amirfahid2.github.io/masjid-guide/.well-known/security.txt
